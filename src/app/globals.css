@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.headings {
+    @apply text-transparent bg-clip-text bg-gradient-to-b from-purple-600 to-white bg-[length:100%_30%];
+}
