@@ -20,14 +20,16 @@ const FaqList: React.FC<FaqListProp> = ({ faqData }) => {
     <Accordion
       type="single"
       collapsible
-      className="w-[80%] text-white disabled:underline"
+      className="md:w-[80%]  text-white disabled:underline"
     >
       {faqData.map((faq, index) => (
         <AccordionItem key={index} value={`item-${index}`}>
-          <AccordionTrigger className="text-2xl md:text-3xl font-bold">
+          <AccordionTrigger className="text-2xl text-left md:text-2xl font-thin">
             {faq.title}
           </AccordionTrigger>
-          <AccordionContent>{faq.description}</AccordionContent>
+          <AccordionContent className="font-thin text-left">
+            {faq.description}
+          </AccordionContent>
         </AccordionItem>
       ))}
     </Accordion>
