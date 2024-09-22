@@ -3,6 +3,7 @@ import { HeroSection } from "@/modules/hero";
 import { ParticipatingSection } from "@/modules/participatingSection";
 import { BeginnerResource } from "@/modules/resourceForBeginner";
 import Image from "next/image";
+import { FooterSection } from "@/modules/footer";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <BeginnerResource />
       <ParticipatingSection />
       <FaqSection />
+      <FooterSection />
     </div>
   );
 }
