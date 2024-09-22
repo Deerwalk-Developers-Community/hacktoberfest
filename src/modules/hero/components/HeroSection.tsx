@@ -3,7 +3,7 @@ import ClubLogo from "../assets/Club_Logo";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col gap-2 lg:pl-36 pl-10 items-center lg:items-start">
+    <div className="flex flex-col gap-2 lg:pl-36 items-center lg:items-start">
       <div className="text-white text-center lg:text-left">
         <p className="text-3xl md:text-5xl lg:text-7xl font-bold text-white">
           Celebrate our
