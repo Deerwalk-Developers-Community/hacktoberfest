@@ -31,13 +31,13 @@ const FooterList = () => {
           </div>
 
           {/* Wrap Share, Follow, and Legal sections in a flex container */}
-          <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 pt-10 lg:pt-20 w-full">
+          <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 pt-10 px-10 lg:pt-20 w-full">
             {/* Share Links */}
             <div className="lg:w-1/4 mb-8">
               <h4 className="text-4xl lg:text-4xl font-semibold mb-4 border-b-4 border-dashed border-white pb-2">
                 SHARE
               </h4>
-              <ul className="space-y-2 text-4xl">
+              <ul className="space-y-2 text-3xl list-disc">
                 <li>
                   <a
                     href="https://x.com/intent/post?url=https%3A%2F%2Fhacktoberfest.com&text=Spread+the+love+for+open+source+with+%23Hacktoberfest%2C+a+month-long+celebration+of+open-source+projects%2C+their+maintainers%2C+and+the+entire+community+of+contributors."
@@ -86,7 +86,7 @@ const FooterList = () => {
               <h4 className="text-4xl lg:text-4xl font-semibold mb-4 border-b-4 border-dashed border-white pb-2">
                 FOLLOW
               </h4>
-              <ul className="space-y-2 text-4xl">
+              <ul className="space-y-2 text-3xl list-disc">
                 <li>
                   <a href="#" className="underline">
                     Discord
@@ -115,7 +115,7 @@ const FooterList = () => {
               <h4 className="text-4xl lg:text-4xl font-semibold mb-4 border-b-4 border-dashed border-white pb-2">
                 LEGAL
               </h4>
-              <ul className="space-y-2 text-4xl">
+              <ul className="space-y-2  text-3xl list-disc">
                 <li>
                   <a href="#" className="underline">
                     Terms
