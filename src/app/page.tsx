@@ -1,12 +1,14 @@
 import { FaqSection } from "@/modules/faq";
 import { HeroSection } from "@/modules/hero";
+import { ParticipatingSection } from "@/modules/participatingSection";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
+    <div className=" bg-black">
       <HeroSection />
-      {/* <FaqSection /> */}
+      <ParticipatingSection />
+      <FaqSection />
     </div>
   );
 }
