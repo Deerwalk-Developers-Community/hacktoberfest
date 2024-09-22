@@ -6,8 +6,8 @@ import { FooterSection } from "@/modules/footer";
 export default function Home() {
   return (
     <div className=" bg-black">
-       {/* <FaqSection />  */}
-       {/* <ParticipatingSection /> */}
+      <ParticipatingSection />
+      <FaqSection />
       <FooterSection />
     </div>
   );
