@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../../components/Header";
 import BeginnerResource from "./components/BeginnerResource";
 import Stars from "../../components/Stars";
-import Arrow from "../../components/Arrow";
+// import Arrow from "../../components/Arrow";
 
 const HacktoberfestPage: React.FC = () => {
   return (
