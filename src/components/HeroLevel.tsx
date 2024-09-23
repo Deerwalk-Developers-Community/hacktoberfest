@@ -12,9 +12,9 @@ const LevelIndicator: React.FC<HeroLevelIndicatorProps> = ({
 }) => {
   return (
     <div className={`${className} flex gap-10 items-center self-end`}>
-      <div className="flex flex-row gap-5 self-stretch pb-2 my-auto w-[93px]">
-        <StartArrow className="w-[23px] h-[41px]" />
-        <div className="w-[67px] h-[39px]">{level}</div>
+      <div className="flex flex-row self-stretch items-center  pb-2 my-auto w-[93px]">
+        <StartArrow className="w-full" />
+        <div className="w-2">{level}</div>
       </div>
     </div>
   );
