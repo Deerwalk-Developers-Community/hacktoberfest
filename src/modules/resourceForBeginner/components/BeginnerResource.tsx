@@ -19,7 +19,7 @@ const BeginnerResource: React.FC = () => {
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Intro to open source 👾
           </h2>
-          <ul className="text-[#8051DA] underline text-lg pl-10 lg:text-4xl space-y-2 list-disc marker:text-[#FFEDA6]">
+          <ul className="text-[#43fc5a] underline text-lg pl-10 lg:text-4xl space-y-2 mt-4 list-disc marker:text-[#FFEDA6]">
             <li>
               <a href="https://www.digitalocean.com/community/tutorial-series/an-introduction-to-open-source"  target="_blank">Introduction to GitHub and Open-Source Projects</a>
             </li>
@@ -50,7 +50,7 @@ const BeginnerResource: React.FC = () => {
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Start Contributing
           </h2>
-          <ul className="text-[#8051DA] text-lg pl-10 lg:text-4xl space-y-2 list-disc marker:text-[#FFEDA6]">
+          <ul className="text-[#43fc5a] text-lg pl-10 lg:text-4xl space-y-2 list-disc marker:text-[#FFEDA6]">
             <li>
             <span className="text-[#FFEDA6] font-thin">[GitHub]</span><a className="underline" href="https://github.com/topics/hacktoberfest"  target="_blank">Participating Hacktoberfest projects</a>
             </li>
@@ -68,7 +68,7 @@ const BeginnerResource: React.FC = () => {
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Sharpen Your Skills
           </h2>
-          <ul className="text-[#8051DA] text-lg lg:text-4xl pl-10 space-y-2 list-disc marker:text-[#FFEDA6] ">
+          <ul className="text-[#43fc5a] text-lg lg:text-4xl pl-10 space-y-2 list-disc marker:text-[#FFEDA6] ">
             <li>
               <span className="text-[#FFEDA6] font-thin">[GitHub]</span><a href="https://training.github.com/" className="underline" target="_blank">GitHub Training Manual</a>
             </li>
