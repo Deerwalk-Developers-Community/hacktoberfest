@@ -3,7 +3,7 @@ import React from "react";
 // import Image from "next/image";
 // import logo from "@/assets/Logo.svg";
 // import Logo from "../modules/participatingSection/assets/Logo";
-import HeroLevel from "./HeroLevel";
+// import HeroLevel from "./HeroLevel";
 interface HeroHeaderProp {
   level: string;
   logo: boolean;

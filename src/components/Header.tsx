@@ -3,7 +3,7 @@ import React from "react";
 // import Image from "next/image";
 // import logo from "@/assets/Logo.svg";
 import Logo from "../modules/participatingSection/assets/Logo";
-import LevelIndicator from "./LevelIndicator";
+// import LevelIndicator from "./LevelIndicator";
 
 interface HeaderProp {
   level: string;
