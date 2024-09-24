@@ -23,12 +23,15 @@ const FooterList = () => {
             {/* Register Button with Background Div */}
             <div className="relative inline-block mt-4">
               <div className="absolute inset-0 bg-[#F8654F] rounded-full transform translate-x-2 translate-y-2"></div>
-              <a href="https://forms.gle/XYLiNPe2akDW6MUm6">
-              <button className="relative bg-[#F8A46D] text-white w-[302px] h-[84.03px] text-4xl font-bold px-6 lg:px-8 py-3 rounded-full shadow-lg flex items-center justify-center">
-                REGISTER
-                <span className="ml-2">→</span>
-              </button></a>
-              
+              <a
+                href="https://events.mlh.io/events/11699-deertober"
+                target="_blank"
+              >
+                <button className="relative bg-[#F8A46D] text-white w-[302px] h-[84.03px] text-4xl font-bold px-6 lg:px-8 py-3 rounded-full shadow-lg flex items-center justify-center">
+                  REGISTER
+                  <span className="ml-2">→</span>
+                </button>
+              </a>
             </div>
           </div>
 
