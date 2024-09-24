@@ -28,10 +28,12 @@ const Hero = () => {
         </p>
       </div>
 
+      <a href="https://forms.gle/XYLiNPe2akDW6MUm6">
       <button className="mt-4 w-44 md:w-44 bg-white text-lg md:text-xl text-black font-bold py-3 px-6 border-r-3 flex justify-center md:justify-start items-center gap-3 hover:bg-gray-200">
         REGISTER
         <span className="text-lg md:text-xl">→</span>
       </button>
+      </a>
     </div>
   );
 };
