@@ -9,7 +9,7 @@ const HacktoberfestPage: React.FC = () => {
   return (
     <div className="relative flex flex-col justify-center font-bold bg-neutral-950 overflow-hidden">
       <Stars className="absolute inset-0 w-fit h-full  min-h-[100dvh] object-cover z-0" />{" "}
-      <div className="relative flex flex-col w-full lg:min-h-[1016px] max-md:min-h-screen max-md:px-5 max-md:max-w-full z-10">
+      <div className="relative flex flex-col w-full lg:min-h-[1016px] max-md:min-h-[100 dvh] max-md:px-5 max-md:max-w-full z-10">
         {" "}
         <Header level="2" logo={false} />
         <main className="flex lg:flex-col flex-col relative lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-5 lg:mt-16 ml-4 w-full max-w-[1654px] p-10">
