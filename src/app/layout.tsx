@@ -21,7 +21,7 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
   title: "Deertober",
-  description: "Open Source Event under Hacktober",
+  description: "Deertober powered by Major League Hacking",
 };
 
 export default function RootLayout({
