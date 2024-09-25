@@ -3267,7 +3267,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#90127C"
         stroke="#90127C"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3276,7 +3276,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.497236"
         fill="#90127C"
         stroke="#90127C"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3285,7 +3285,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#8F137E"
         stroke="#8F137E"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3294,7 +3294,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#8D137E"
         stroke="#8D137E"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3303,7 +3303,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#720D75"
         stroke="#720D75"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3312,7 +3312,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#38086A"
         stroke="#38086A"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3321,7 +3321,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#38086C"
         stroke="#38086C"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3330,7 +3330,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#330367"
         stroke="#330367"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.294"
@@ -3339,7 +3339,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#330367"
         stroke="#330367"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="320.294"
@@ -3348,7 +3348,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#330365"
         stroke="#330365"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="320.294"
@@ -3357,7 +3357,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#330464"
         stroke="#330464"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="320.294"
@@ -3366,7 +3366,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#330464"
         stroke="#330464"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="320.363"
@@ -3375,7 +3375,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.49724"
         fill="#330462"
         stroke="#330462"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.363"
@@ -3384,7 +3384,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.497238"
         fill="#330462"
         stroke="#330462"
-        stroke-width="0.423395"
+        strokeWidth="0.423395"
       />
       <rect
         x="320.315"
@@ -3393,7 +3393,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.327975"
         fill="#380967"
         stroke="#380967"
-        stroke-width="0.327975"
+        strokeWidth="0.327975"
       />
       <rect
         x="320.356"
@@ -3402,7 +3402,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.408532"
         fill="#2C0B52"
         stroke="#2C0B52"
-        stroke-width="0.408532"
+        strokeWidth="0.408532"
       />
       <rect
         x="320.373"
@@ -3411,7 +3411,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.408531"
         fill="#2C0B52"
         stroke="#2C0B52"
-        stroke-width="0.408531"
+        strokeWidth="0.408531"
       />
       <rect
         x="320.147"
@@ -3658,7 +3658,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#3A1450"
         stroke="#3A1450"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3667,7 +3667,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#3A1450"
         stroke="#3A1450"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3676,7 +3676,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#2E1652"
         stroke="#2E1652"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3685,7 +3685,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470577"
         fill="#2E1652"
         stroke="#2E1652"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3694,7 +3694,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#2B1651"
         stroke="#2B1651"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3703,7 +3703,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#28134C"
         stroke="#28134C"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3712,7 +3712,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#261148"
         stroke="#261148"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3721,7 +3721,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#250E44"
         stroke="#250E44"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3730,7 +3730,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#210A3E"
         stroke="#210A3E"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.887"
@@ -3739,7 +3739,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.470581"
         fill="#190631"
         stroke="#190631"
-        stroke-width="0.450054"
+        strokeWidth="0.450054"
       />
       <rect
         x="316.805"
@@ -3748,7 +3748,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#190631"
         stroke="#190631"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="316.805"
@@ -3757,7 +3757,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#150528"
         stroke="#150528"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="317.777"
@@ -3766,7 +3766,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#44055C"
         stroke="#44055C"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3775,7 +3775,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#44055C"
         stroke="#44055C"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3784,7 +3784,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#31075B"
         stroke="#31075B"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3793,7 +3793,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490778"
         fill="#31075B"
         stroke="#31075B"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3802,7 +3802,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#2F075D"
         stroke="#2F075D"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3811,7 +3811,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#2F075D"
         stroke="#2F075D"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3820,7 +3820,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#2F085B"
         stroke="#2F085B"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3829,7 +3829,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#360C60"
         stroke="#360C60"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3838,7 +3838,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#360C5E"
         stroke="#360C5E"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.777"
@@ -3847,7 +3847,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.490782"
         fill="#2C0B4E"
         stroke="#2C0B4E"
-        stroke-width="0.429853"
+        strokeWidth="0.429853"
       />
       <rect
         x="317.705"
@@ -3856,7 +3856,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#2C0B4E"
         stroke="#2C0B4E"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="317.705"
@@ -3865,7 +3865,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#200838"
         stroke="#200838"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="317.705"
@@ -3874,7 +3874,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#09001B"
         stroke="#09001B"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="317.705"
@@ -3883,7 +3883,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#09001B"
         stroke="#09001B"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="318.633"
@@ -3892,7 +3892,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#5F066C"
         stroke="#5F066C"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3901,7 +3901,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#5F066C"
         stroke="#5F066C"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3910,7 +3910,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#480265"
         stroke="#480265"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3919,7 +3919,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499077"
         fill="#480265"
         stroke="#480265"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3928,7 +3928,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#470267"
         stroke="#470267"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3937,7 +3937,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#450367"
         stroke="#450367"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3946,7 +3946,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#420467"
         stroke="#420467"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3955,7 +3955,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#3D0769"
         stroke="#3D0769"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3964,7 +3964,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#350364"
         stroke="#350364"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -3973,7 +3973,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#31075B"
         stroke="#31075B"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.565"
@@ -3982,7 +3982,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#31075B"
         stroke="#31075B"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="318.565"
@@ -3991,7 +3991,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#240445"
         stroke="#240445"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="318.565"
@@ -4000,7 +4000,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#14002E"
         stroke="#14002E"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="318.565"
@@ -4009,7 +4009,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#14002E"
         stroke="#14002E"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="318.633"
@@ -4018,7 +4018,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499081"
         fill="#110027"
         stroke="#110027"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="318.633"
@@ -4027,7 +4027,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499079"
         fill="#0F0022"
         stroke="#0F0022"
-        stroke-width="0.421555"
+        strokeWidth="0.421555"
       />
       <rect
         x="319.487"
@@ -4036,7 +4036,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#84137B"
         stroke="#84137B"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4045,7 +4045,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#84137B"
         stroke="#84137B"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4054,7 +4054,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#851780"
         stroke="#851780"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4063,7 +4063,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477547"
         fill="#851780"
         stroke="#851780"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4072,7 +4072,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#7D127A"
         stroke="#7D127A"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4081,7 +4081,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#821882"
         stroke="#821882"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4090,7 +4090,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#71187E"
         stroke="#71187E"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4099,7 +4099,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#3D0062"
         stroke="#3D0062"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4108,7 +4108,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#330464"
         stroke="#330464"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4117,7 +4117,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#370A67"
         stroke="#370A67"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.408"
@@ -4126,7 +4126,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#370A67"
         stroke="#370A67"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="319.408"
@@ -4135,7 +4135,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#360C62"
         stroke="#360C62"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="319.408"
@@ -4144,7 +4144,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#340D5E"
         stroke="#340D5E"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="319.408"
@@ -4153,7 +4153,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#340D5E"
         stroke="#340D5E"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="319.487"
@@ -4162,7 +4162,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477551"
         fill="#340E5A"
         stroke="#340E5A"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.487"
@@ -4171,7 +4171,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.477549"
         fill="#330E5A"
         stroke="#330E5A"
-        stroke-width="0.443085"
+        strokeWidth="0.443085"
       />
       <rect
         x="319.429"
@@ -4180,7 +4180,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.327975"
         fill="#330E5A"
         stroke="#330E5A"
-        stroke-width="0.327975"
+        strokeWidth="0.327975"
       />
       <rect
         x="319.469"
@@ -4189,7 +4189,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.408532"
         fill="#2A0E49"
         stroke="#2A0E49"
-        stroke-width="0.408532"
+        strokeWidth="0.408532"
       />
       <rect
         x="321.211"
@@ -4198,7 +4198,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#8B117C"
         stroke="#8B117C"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4207,7 +4207,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#8B117C"
         stroke="#8B117C"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4216,7 +4216,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#8A157E"
         stroke="#8A157E"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4225,7 +4225,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494045"
         fill="#8A157E"
         stroke="#8A157E"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4234,7 +4234,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#840F78"
         stroke="#840F78"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4243,7 +4243,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#8A157E"
         stroke="#8A157E"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4252,7 +4252,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#79147C"
         stroke="#79147C"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4261,7 +4261,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#3F0062"
         stroke="#3F0062"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4270,7 +4270,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#38086A"
         stroke="#38086A"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4279,7 +4279,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#3A076C"
         stroke="#3A076C"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.141"
@@ -4288,7 +4288,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#3A076C"
         stroke="#3A076C"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="321.141"
@@ -4297,7 +4297,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#38086A"
         stroke="#38086A"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="321.141"
@@ -4306,7 +4306,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#380967"
         stroke="#380967"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="321.141"
@@ -4315,7 +4315,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#380967"
         stroke="#380967"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="321.211"
@@ -4324,7 +4324,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494049"
         fill="#370A63"
         stroke="#370A63"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.211"
@@ -4333,7 +4333,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.494047"
         fill="#370B62"
         stroke="#370B62"
-        stroke-width="0.426586"
+        strokeWidth="0.426586"
       />
       <rect
         x="321.162"
@@ -4342,7 +4342,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.327975"
         fill="#370A63"
         stroke="#370A63"
-        stroke-width="0.327975"
+        strokeWidth="0.327975"
       />
       <rect
         x="321.202"
@@ -4351,7 +4351,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.408532"
         fill="#2C0B50"
         stroke="#2C0B50"
-        stroke-width="0.408532"
+        strokeWidth="0.408532"
       />
       <rect
         x="322.065"
@@ -4360,7 +4360,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#7B0D76"
         stroke="#7B0D76"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4369,7 +4369,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#7B0D76"
         stroke="#7B0D76"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4378,7 +4378,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#710D75"
         stroke="#710D75"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4387,7 +4387,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492464"
         fill="#710D75"
         stroke="#710D75"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4396,7 +4396,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#6F0E77"
         stroke="#6F0E77"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4405,7 +4405,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#78147C"
         stroke="#78147C"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4414,7 +4414,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#681178"
         stroke="#681178"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4423,7 +4423,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3C0064"
         stroke="#3C0064"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4432,7 +4432,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#38086C"
         stroke="#38086C"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4441,7 +4441,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3A076C"
         stroke="#3A076C"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="321.994"
@@ -4450,7 +4450,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#38086A"
         stroke="#38086A"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="321.994"
@@ -4459,7 +4459,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#31075D"
         stroke="#31075D"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="321.994"
@@ -4468,7 +4468,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#2F0955"
         stroke="#2F0955"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="321.994"
@@ -4477,7 +4477,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#2F0955"
         stroke="#2F0955"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="322.065"
@@ -4486,7 +4486,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#260248"
         stroke="#260248"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.065"
@@ -4495,7 +4495,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492466"
         fill="#240346"
         stroke="#240346"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.015"
@@ -4504,7 +4504,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.327975"
         fill="#2C0B4E"
         stroke="#2C0B4E"
-        stroke-width="0.327975"
+        strokeWidth="0.327975"
       />
       <rect
         x="322.922"
@@ -4513,7 +4513,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#5F066C"
         stroke="#5F066C"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4522,7 +4522,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#5F066C"
         stroke="#5F066C"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4531,7 +4531,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#400062"
         stroke="#400062"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4540,7 +4540,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492464"
         fill="#400062"
         stroke="#400062"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4549,7 +4549,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3F0062"
         stroke="#3F0062"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4558,7 +4558,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3F0062"
         stroke="#3F0062"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4567,7 +4567,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3C0064"
         stroke="#3C0064"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4576,7 +4576,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#3B076A"
         stroke="#3B076A"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4585,7 +4585,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#330367"
         stroke="#330367"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.922"
@@ -4594,7 +4594,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.492468"
         fill="#380A69"
         stroke="#380A69"
-        stroke-width="0.428167"
+        strokeWidth="0.428167"
       />
       <rect
         x="322.85"
@@ -4603,7 +4603,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#370A65"
         stroke="#370A65"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="322.85"
@@ -4612,7 +4612,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#240445"
         stroke="#240445"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="322.85"
@@ -4621,7 +4621,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#0D0024"
         stroke="#0D0024"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="322.85"
@@ -4630,7 +4630,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#0D0024"
         stroke="#0D0024"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="323.778"
@@ -4639,7 +4639,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#510E64"
         stroke="#510E64"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4648,7 +4648,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#510E64"
         stroke="#510E64"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4657,7 +4657,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#370C5E"
         stroke="#370C5E"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4666,7 +4666,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493185"
         fill="#370C5E"
         stroke="#370C5E"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4675,7 +4675,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#340D60"
         stroke="#340D60"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4684,7 +4684,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#340D5E"
         stroke="#340D5E"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4693,7 +4693,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#340D5C"
         stroke="#340D5C"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4702,7 +4702,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#340D5C"
         stroke="#340D5C"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4711,7 +4711,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#340D5C"
         stroke="#340D5C"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.778"
@@ -4720,7 +4720,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.493189"
         fill="#311053"
         stroke="#311053"
-        stroke-width="0.427446"
+        strokeWidth="0.427446"
       />
       <rect
         x="323.707"
@@ -4729,7 +4729,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#311053"
         stroke="#311053"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="323.707"
@@ -4738,7 +4738,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#1F0A33"
         stroke="#1F0A33"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="323.707"
@@ -4747,7 +4747,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#080014"
         stroke="#080014"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="324.63"
@@ -4756,7 +4756,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#2B023C"
         stroke="#2B023C"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4765,7 +4765,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#2B023C"
         stroke="#2B023C"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4774,7 +4774,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#23063C"
         stroke="#23063C"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4783,7 +4783,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499264"
         fill="#23063C"
         stroke="#23063C"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4792,7 +4792,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#20083C"
         stroke="#20083C"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4801,7 +4801,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#1F0938"
         stroke="#1F0938"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4810,7 +4810,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#1F0A35"
         stroke="#1F0A35"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4819,7 +4819,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#1D0B31"
         stroke="#1D0B31"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4828,7 +4828,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#1C0C2F"
         stroke="#1C0C2F"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.63"
@@ -4837,7 +4837,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.499268"
         fill="#1B0E28"
         stroke="#1B0E28"
-        stroke-width="0.421368"
+        strokeWidth="0.421368"
       />
       <rect
         x="324.562"
@@ -4846,7 +4846,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285946"
         fill="#1B0E28"
         stroke="#1B0E28"
-        stroke-width="0.285946"
+        strokeWidth="0.285946"
       />
       <rect
         x="324.562"
@@ -4855,7 +4855,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="0.285944"
         fill="#0C0517"
         stroke="#0C0517"
-        stroke-width="0.285944"
+        strokeWidth="0.285944"
       />
       <rect
         x="317.584"
@@ -9456,8 +9456,8 @@ const Alien = ({ className }: { className?: string }) => {
         fill="#2CC9E2"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M542.763 141.641H505V154.938H542.763V141.641ZM522.278 144.875H511.769V150.625H522.278V144.875Z"
         fill="#2CC9E2"
       />
@@ -9498,8 +9498,8 @@ const Alien = ({ className }: { className?: string }) => {
         fill="#3FFBFD"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M467.238 141.641H505V154.938H467.238V141.641ZM487.722 144.875H498.231V150.625H487.722V144.875Z"
         fill="#3FFBFD"
       />
@@ -9627,7 +9627,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FCFFFB"
         stroke="#FCFFFB"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.243"
@@ -9636,7 +9636,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F9F30A"
         stroke="#F9F30A"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="217.605"
@@ -9645,7 +9645,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FB6451"
         stroke="#FB6451"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="217.605"
@@ -9654,7 +9654,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#F62E58"
         stroke="#F62E58"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="217.408"
@@ -9663,7 +9663,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F8305E"
         stroke="#F8305E"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="217.408"
@@ -9672,7 +9672,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#FB2F5A"
         stroke="#FB2F5A"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="217.588"
@@ -9681,7 +9681,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="white"
         stroke="white"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.588"
@@ -9690,7 +9690,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F3ED1E"
         stroke="#F3ED1E"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.588"
@@ -9699,7 +9699,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FB6353"
         stroke="#FB6353"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.588"
@@ -9708,7 +9708,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FEF408"
         stroke="#FEF408"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.588"
@@ -9717,7 +9717,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F32D57"
         stroke="#F32D57"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="217.588"
@@ -9726,7 +9726,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#D93E5D"
         stroke="#D93E5D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9735,7 +9735,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="white"
         stroke="white"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="210.666"
@@ -9744,7 +9744,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F9F30A"
         stroke="#F9F30A"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="211.028"
@@ -9753,7 +9753,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FCF00F"
         stroke="#FCF00F"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="211.028"
@@ -9762,7 +9762,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#F9624F"
         stroke="#F9624F"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="210.831"
@@ -9771,7 +9771,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F8F118"
         stroke="#F8F118"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="210.831"
@@ -9780,7 +9780,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#430B3B"
         stroke="#430B3B"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="210.831"
@@ -9789,7 +9789,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F52E55"
         stroke="#F52E55"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="211.011"
@@ -9798,7 +9798,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F8F406"
         stroke="#F8F406"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9807,7 +9807,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FB6353"
         stroke="#FB6353"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9816,7 +9816,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FA6455"
         stroke="#FA6455"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9825,7 +9825,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F02D59"
         stroke="#F02D59"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9834,7 +9834,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#4A073D"
         stroke="#4A073D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="211.011"
@@ -9843,7 +9843,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#130011"
         stroke="#130011"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9852,7 +9852,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FCF10D"
         stroke="#FCF10D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.089"
@@ -9861,7 +9861,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#FC6252"
         stroke="#FC6252"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="204.451"
@@ -9870,7 +9870,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#F9F308"
         stroke="#F9F308"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="204.451"
@@ -9879,7 +9879,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#FC6454"
         stroke="#FC6454"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="204.254"
@@ -9888,7 +9888,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#FDF10A"
         stroke="#FDF10A"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="204.254"
@@ -9897,7 +9897,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F62C5C"
         stroke="#F62C5C"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="204.434"
@@ -9906,7 +9906,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FAF304"
         stroke="#FAF304"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9915,7 +9915,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F96851"
         stroke="#F96851"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9924,7 +9924,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FB3057"
         stroke="#FB3057"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9933,7 +9933,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#3E023D"
         stroke="#3E023D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9942,7 +9942,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#E93A63"
         stroke="#E93A63"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="204.434"
@@ -9951,7 +9951,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#06030C"
         stroke="#06030C"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.857"
@@ -9960,7 +9960,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F96154"
         stroke="#F96154"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.512"
@@ -9969,7 +9969,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#FD6557"
         stroke="#FD6557"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="197.875"
@@ -9978,7 +9978,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FA6254"
         stroke="#FA6254"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="197.875"
@@ -9987,7 +9987,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#F86251"
         stroke="#F86251"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="197.677"
@@ -9996,7 +9996,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F52858"
         stroke="#F52858"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="197.677"
@@ -10005,7 +10005,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#4D053D"
         stroke="#4D053D"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="197.857"
@@ -10014,7 +10014,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FF6458"
         stroke="#FF6458"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.857"
@@ -10023,7 +10023,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F22A56"
         stroke="#F22A56"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.857"
@@ -10032,7 +10032,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F4325C"
         stroke="#F4325C"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.857"
@@ -10041,7 +10041,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FA6356"
         stroke="#FA6356"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="197.857"
@@ -10050,7 +10050,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#3E0C2D"
         stroke="#3E0C2D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="191.281"
@@ -10059,7 +10059,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FA6255"
         stroke="#FA6255"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="190.935"
@@ -10068,7 +10068,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F62D55"
         stroke="#F62D55"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="191.298"
@@ -10077,7 +10077,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#F56552"
         stroke="#F56552"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="191.298"
@@ -10086,7 +10086,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#E62E58"
         stroke="#E62E58"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="191.101"
@@ -10095,7 +10095,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#3E0933"
         stroke="#3E0933"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="191.281"
@@ -10104,7 +10104,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#EE2F62"
         stroke="#EE2F62"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="191.281"
@@ -10113,7 +10113,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FFD949"
         stroke="#FFD949"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="191.281"
@@ -10122,7 +10122,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#43093A"
         stroke="#43093A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="191.281"
@@ -10131,7 +10131,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#410833"
         stroke="#410833"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="191.281"
@@ -10140,7 +10140,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#03020A"
         stroke="#03020A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="184.704"
@@ -10149,7 +10149,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#470438"
         stroke="#470438"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="184.358"
@@ -10158,7 +10158,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F82C57"
         stroke="#F82C57"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="184.721"
@@ -10167,7 +10167,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FBF210"
         stroke="#FBF210"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="184.721"
@@ -10176,7 +10176,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#410C40"
         stroke="#410C40"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="184.524"
@@ -10185,7 +10185,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#030208"
         stroke="#030208"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="184.704"
@@ -10194,7 +10194,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#3E0643"
         stroke="#3E0643"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="184.704"
@@ -10203,7 +10203,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#AB2546"
         stroke="#AB2546"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="184.704"
@@ -10212,7 +10212,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#460930"
         stroke="#460930"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="184.704"
@@ -10221,7 +10221,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#05020B"
         stroke="#05020B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="178.127"
@@ -10230,7 +10230,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#EB325B"
         stroke="#EB325B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="177.782"
@@ -10239,7 +10239,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#CC3F67"
         stroke="#CC3F67"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="178.144"
@@ -10248,7 +10248,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#430831"
         stroke="#430831"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="177.947"
@@ -10257,7 +10257,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#030208"
         stroke="#030208"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="178.127"
@@ -10266,7 +10266,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#140013"
         stroke="#140013"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="178.127"
@@ -10275,7 +10275,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#03020A"
         stroke="#03020A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10284,7 +10284,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FCFFFD"
         stroke="#FCFFFD"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="223.82"
@@ -10293,7 +10293,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F9F30A"
         stroke="#F9F30A"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="224.182"
@@ -10302,7 +10302,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FA6451"
         stroke="#FA6451"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="224.182"
@@ -10311,7 +10311,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#FA6453"
         stroke="#FA6453"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="223.985"
@@ -10320,7 +10320,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#FC6155"
         stroke="#FC6155"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="223.985"
@@ -10329,7 +10329,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#47083B"
         stroke="#47083B"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="224.165"
@@ -10338,7 +10338,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F8F209"
         stroke="#F8F209"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10347,7 +10347,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F7614E"
         stroke="#F7614E"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10356,7 +10356,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FD6351"
         stroke="#FD6351"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10365,7 +10365,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FD6351"
         stroke="#FD6351"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10374,7 +10374,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#420137"
         stroke="#420137"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="224.165"
@@ -10383,7 +10383,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#400734"
         stroke="#400734"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10392,7 +10392,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F7F307"
         stroke="#F7F307"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.396"
@@ -10401,7 +10401,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#FB6353"
         stroke="#FB6353"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="230.759"
@@ -10410,7 +10410,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#FB6353"
         stroke="#FB6353"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="230.759"
@@ -10419,7 +10419,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#F92B59"
         stroke="#F92B59"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="230.562"
@@ -10428,7 +10428,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#49043B"
         stroke="#49043B"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="230.562"
@@ -10437,7 +10437,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F22E5B"
         stroke="#F22E5B"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="230.742"
@@ -10446,7 +10446,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F7664F"
         stroke="#F7664F"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10455,7 +10455,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FA6453"
         stroke="#FA6453"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10464,7 +10464,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#E23A63"
         stroke="#E23A63"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10473,7 +10473,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#401144"
         stroke="#401144"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10482,7 +10482,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#E93058"
         stroke="#E93058"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="230.742"
@@ -10491,7 +10491,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#000008"
         stroke="#000008"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="237.319"
@@ -10500,7 +10500,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F8654F"
         stroke="#F8654F"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="236.973"
@@ -10509,7 +10509,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F72B56"
         stroke="#F72B56"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="237.336"
@@ -10518,7 +10518,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#DA3962"
         stroke="#DA3962"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="237.336"
@@ -10527,7 +10527,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#7F1E3A"
         stroke="#7F1E3A"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="237.139"
@@ -10536,7 +10536,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#52210B"
         stroke="#52210B"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="237.139"
@@ -10545,7 +10545,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#440834"
         stroke="#440834"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="237.319"
@@ -10554,7 +10554,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F8654F"
         stroke="#F8654F"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="237.319"
@@ -10563,7 +10563,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F4315B"
         stroke="#F4315B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="237.319"
@@ -10572,7 +10572,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#370013"
         stroke="#370013"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="237.319"
@@ -10581,7 +10581,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FF695B"
         stroke="#FF695B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="237.319"
@@ -10590,7 +10590,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#420B35"
         stroke="#420B35"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="243.895"
@@ -10599,7 +10599,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F7F303"
         stroke="#F7F303"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="243.55"
@@ -10608,7 +10608,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#F52B58"
         stroke="#F52B58"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="243.912"
@@ -10617,7 +10617,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#B7214F"
         stroke="#B7214F"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="243.912"
@@ -10626,7 +10626,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#F66455"
         stroke="#F66455"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="243.715"
@@ -10635,7 +10635,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#F9F306"
         stroke="#F9F306"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="243.715"
@@ -10644,7 +10644,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#06030A"
         stroke="#06030A"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect x="255.423" y="87.7692" width="3.25" height="3.25" fill="#8B86AC" />
       <rect x="245.558" y="11.4342" width="3.25" height="3.25" fill="#8B86AC" />
@@ -10657,7 +10657,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#EC2D54"
         stroke="#F42D53"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="243.895"
@@ -10666,7 +10666,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#48053B"
         stroke="#48053B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="243.895"
@@ -10675,7 +10675,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F42A57"
         stroke="#F42A57"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="243.895"
@@ -10684,7 +10684,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#400930"
         stroke="#400930"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="250.472"
@@ -10693,7 +10693,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FF5F5C"
         stroke="#FF5F5C"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="250.127"
@@ -10702,7 +10702,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#46053D"
         stroke="#46053D"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="250.489"
@@ -10711,7 +10711,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#F42C58"
         stroke="#F42C58"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="250.489"
@@ -10720,7 +10720,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#380D2B"
         stroke="#380D2B"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="250.292"
@@ -10729,7 +10729,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.89132"
         fill="#020308"
         stroke="#020308"
-        stroke-width="2.89132"
+        strokeWidth="2.89132"
       />
       <rect
         x="250.472"
@@ -10738,7 +10738,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#FD6258"
         stroke="#FD6258"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="250.472"
@@ -10747,7 +10747,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#F22B5A"
         stroke="#F22B5A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="250.472"
@@ -10756,7 +10756,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#0A0010"
         stroke="#0A0010"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="250.472"
@@ -10765,7 +10765,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#04030B"
         stroke="#04030B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="257.049"
@@ -10774,7 +10774,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#49043B"
         stroke="#49043B"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="256.704"
@@ -10783,7 +10783,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="2.56084"
         fill="#49043B"
         stroke="#46053B"
-        stroke-width="2.56084"
+        strokeWidth="2.56084"
       />
       <rect
         x="257.066"
@@ -10792,7 +10792,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28567"
         fill="#8B243D"
         stroke="#8B243D"
-        stroke-width="3.28567"
+        strokeWidth="3.28567"
       />
       <rect
         x="257.066"
@@ -10801,7 +10801,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.28566"
         fill="#090008"
         stroke="#090008"
-        stroke-width="3.28566"
+        strokeWidth="3.28566"
       />
       <rect
         x="257.049"
@@ -10810,7 +10810,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#3E0B34"
         stroke="#3E0B34"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="257.049"
@@ -10819,7 +10819,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#78253D"
         stroke="#78253D"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="257.049"
@@ -10828,7 +10828,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#02020A"
         stroke="#02020A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
       <rect
         x="263.626"
@@ -10837,7 +10837,7 @@ const Alien = ({ className }: { className?: string }) => {
         height="3.25139"
         fill="#02020A"
         stroke="#02020A"
-        stroke-width="3.25139"
+        strokeWidth="3.25139"
       />
     </svg>
   );

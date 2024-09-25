@@ -193,15 +193,15 @@ const Stars = ({ className }: { className?: string }) => {
           y2="158.325"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFFFE6" />
-          <stop offset="0.04" stop-color="#FFF2E4" />
-          <stop offset="0.19" stop-color="#FFBDDE" />
-          <stop offset="0.31" stop-color="#FF9CDA" />
-          <stop offset="0.37" stop-color="#FF90D8" />
-          <stop offset="0.41" stop-color="#F789D5" />
-          <stop offset="0.69" stop-color="#BE5AC3" />
-          <stop offset="0.89" stop-color="#9B3DB7" />
-          <stop offset="1" stop-color="#8E32B3" />
+          <stop stopColor="#FFFFE6" />
+          <stop offset="0.04" stopColor="#FFF2E4" />
+          <stop offset="0.19" stopColor="#FFBDDE" />
+          <stop offset="0.31" stopColor="#FF9CDA" />
+          <stop offset="0.37" stopColor="#FF90D8" />
+          <stop offset="0.41" stopColor="#F789D5" />
+          <stop offset="0.69" stopColor="#BE5AC3" />
+          <stop offset="0.89" stopColor="#9B3DB7" />
+          <stop offset="1" stopColor="#8E32B3" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_1949_4715"
@@ -211,15 +211,15 @@ const Stars = ({ className }: { className?: string }) => {
           y2="765.977"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFFFE6" />
-          <stop offset="0.04" stop-color="#FFF2E4" />
-          <stop offset="0.19" stop-color="#FFBDDE" />
-          <stop offset="0.31" stop-color="#FF9CDA" />
-          <stop offset="0.37" stop-color="#FF90D8" />
-          <stop offset="0.41" stop-color="#F789D5" />
-          <stop offset="0.69" stop-color="#BE5AC3" />
-          <stop offset="0.89" stop-color="#9B3DB7" />
-          <stop offset="1" stop-color="#8E32B3" />
+          <stop stopColor="#FFFFE6" />
+          <stop offset="0.04" stopColor="#FFF2E4" />
+          <stop offset="0.19" stopColor="#FFBDDE" />
+          <stop offset="0.31" stopColor="#FF9CDA" />
+          <stop offset="0.37" stopColor="#FF90D8" />
+          <stop offset="0.41" stopColor="#F789D5" />
+          <stop offset="0.69" stopColor="#BE5AC3" />
+          <stop offset="0.89" stopColor="#9B3DB7" />
+          <stop offset="1" stopColor="#8E32B3" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_1949_4715"
@@ -229,15 +229,15 @@ const Stars = ({ className }: { className?: string }) => {
           y2="204.629"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFFFE6" />
-          <stop offset="0.04" stop-color="#FFF2E4" />
-          <stop offset="0.19" stop-color="#FFBDDE" />
-          <stop offset="0.31" stop-color="#FF9CDA" />
-          <stop offset="0.37" stop-color="#FF90D8" />
-          <stop offset="0.41" stop-color="#F789D5" />
-          <stop offset="0.69" stop-color="#BE5AC3" />
-          <stop offset="0.89" stop-color="#9B3DB7" />
-          <stop offset="1" stop-color="#8E32B3" />
+          <stop stopColor="#FFFFE6" />
+          <stop offset="0.04" stopColor="#FFF2E4" />
+          <stop offset="0.19" stopColor="#FFBDDE" />
+          <stop offset="0.31" stopColor="#FF9CDA" />
+          <stop offset="0.37" stopColor="#FF90D8" />
+          <stop offset="0.41" stopColor="#F789D5" />
+          <stop offset="0.69" stopColor="#BE5AC3" />
+          <stop offset="0.89" stopColor="#9B3DB7" />
+          <stop offset="1" stopColor="#8E32B3" />
         </linearGradient>
       </defs>
     </svg>
