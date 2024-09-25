@@ -98,17 +98,17 @@ const FooterList = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="https://www.linkedin.com/company/d-dev-community/posts/?feedView=all" className="underline">
                     LinkedIn
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="https://www.instagram.com/dwit_ddc/" className="underline">
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="mailto:developers.community@deerwalk.edu.np" className="underline">
                     Email
                   </a>
                 </li>
