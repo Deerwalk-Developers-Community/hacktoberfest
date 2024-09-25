@@ -3,13 +3,14 @@ import Window from "../assets/Window";
 
 const ParticipationInfo: React.FC = () => {
   return (
-    <section className="relative grid lg:place-items-center mx-auto min-h-[837px] px-5 py-16 text-white lg:w-screen">
+    <section className="relative grid 2lg:place-items-center mx-auto min-h-[837px] px-3 py-8 2lg:px-5 2lg:py-16 text-white w-full">
       <div className="absolute inset-0 w-full h-full">
-        <Window className="w-full h-full lg:block hidden" />
+        {/* Show the window only from 2lg breakpoint onwards */}
+        <Window className="w-full h-full object-cover 2lg:block hidden" />
       </div>
 
-      <div className="relative z-10 max-w-3xl w-full p-2 md:p-8 text-left text-white lg:text-black lg:space-y-6 leading-relaxed">
-        <h2 className="text-2xl md:text-3xl font-bold">
+      <div className="relative z-10 w-full max-w-full 2lg:max-w-3xl p-2 md:p-6 2lg:p-8 text-left 2lg:text-black 2lg:space-y-6 leading-relaxed">
+        <h2 className="text-lg md:text-xl= 2lg:text-3xl font-bold text-center 2lg:text-left">
           Here&apos;s what you need to know to participate and complete
           Hacktoberfest:
         </h2>
