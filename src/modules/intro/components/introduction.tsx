@@ -1,5 +1,4 @@
 import React from "react";
-import Threearrows from "../assets/threearrow";
 
 const IntroductionSection: React.FC = () => {
   return (
