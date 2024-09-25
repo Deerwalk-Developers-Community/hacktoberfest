@@ -36,7 +36,7 @@ const FooterList = () => {
           </div>
 
           {/* Wrap Share, Follow, and Legal sections in a flex container */}
-          <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 pt-10 lg:pt-20 w-full">
+          <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 pt-10 px-10 lg:pt-20 w-full">
             {/* Share Links */}
             <div className="lg:w-1/4 mb-8">
               <h4 className="text-2xl lg:text-4xl font-semibold mb-4 border-b-4 border-dashed border-white pb-2">
@@ -98,17 +98,17 @@ const FooterList = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="https://www.linkedin.com/company/d-dev-community/posts/?feedView=all" className="underline">
                     LinkedIn
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="https://www.instagram.com/dwit_ddc/" className="underline">
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="underline">
+                  <a href="mailto:developers.community@deerwalk.edu.np" className="underline">
                     Email
                   </a>
                 </li>
