@@ -3,10 +3,10 @@ import Window from "../assets/Window";
 
 const ParticipationInfo: React.FC = () => {
   return (
-    <section className="relative grid 2lg:place-items-center mx-auto min-h-[837px] px-3 py-8 2lg:px-5 2lg:py-16 text-white w-full">
-      <div className="absolute inset-0 w-full h-full">
+    <section className="relative grid 2lg:place-items-center mx-auto 2lg:min-h-[837px] px-3 py-8 2lg:px-5 2lg:py-16 text-white w-full">
+      <div className="absolute inset-0 2lg:w-full 2lg:h-full h-0 w-0">
         {/* Show the window only from 2lg breakpoint onwards */}
-        <Window className="w-full h-full object-cover 2lg:block hidden" />
+        <Window className="2lg:w-full 2lg:h-full object-cover 2lg:block hidden" />
       </div>
 
       <div className="relative z-10 w-full max-w-full 2lg:max-w-3xl p-2 md:p-6 2lg:p-8 text-left 2lg:text-black 2lg:space-y-6 leading-relaxed">
