@@ -10,9 +10,9 @@ const HacktoberfestPage: React.FC = () => {
       <Stars className="absolute inset-0 w-fit h-full  min-h-[100vh] object-cover z-0" />{" "}
       <div className="relative flex flex-col w-full min-h-[1016px] max-md:min-h-screen max-md:px-5 max-md:max-w-full z-10">
         {" "}
-        <Header level="2" logo={false}/>
+        <Header level="2" logo={false} />
         <main className="flex lg:flex-row flex-col relative lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-16 ml-4 w-full max-w-[1654px] max-md:mt-10 max-md:max-w-full p-10 pb-0">
-          <div className="flex flex-row gap-3 lg:gap-5 items-center justify-center  md:gap-2">
+          <div className="flex flex-row gap-3 lg:gap-5 items-center justify-center  md:gap-2 mr-10">
             <Arrow className="object-contain shrink-0 mt-20 max-w-full aspect-[1.96] w-[116px] max-md:mt-10 max-md:w-[80px]" />
             <h1 className="grow shrink lg:text-4xl mt-24 text-3xl text-white w-[293px] max-md:mt-10 max-md:text-3xl max-md:w-full ">
               Participating in <br /> Hacktoberfest

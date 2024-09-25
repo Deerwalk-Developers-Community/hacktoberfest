@@ -3,7 +3,7 @@ import Window from "../assets/Window";
 
 const ParticipationInfo: React.FC = () => {
   return (
-    <section className="relative grid place-items-center min-h-[837px] px-5 py-16 text-white w-screen">
+    <section className="relative grid lg:place-items-center mx-auto min-h-[837px] px-5 py-16 text-white w-screen">
       <div className="absolute inset-0 w-full h-full">
         <Window className="w-full h-full lg:block hidden" />
       </div>
@@ -42,9 +42,9 @@ const ParticipationInfo: React.FC = () => {
             requests for them to count toward your total
           </li>
           <li>
-            You&apos;ll unlock a digital badge when you register for Hacktoberfest,
-            and level it up with each of your four pull/merge requests accepted
-            during Hacktoberfest
+            You&apos;ll unlock a digital badge when you register for
+            Hacktoberfest, and level it up with each of your four pull/merge
+            requests accepted during Hacktoberfest
           </li>
         </ul>
       </div>
