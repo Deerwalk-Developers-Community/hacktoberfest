@@ -39,10 +39,10 @@ const Page = () => {
       <div className="relative flex flex-col w-full lg:min-h-[1016px]  max-md:px-5 max-md:max-w-full z-10">
         {" "}
         <Header level="3" logo={false} />
-        <main className="flex  flex-col relative gap-5 lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-16 ml-4 w-full max-w-[1654px] max-md:mt-10 max-md:max-w-full p-10 pt-0">
+        <main className="flex  flex-col relative gap-5 lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-5 ml-4 w-full max-w-[1654px] max-md:mt-10 max-md:max-w-full p-10 pt-0">
           <div className="flex flex-row items-center justify-center gap-3 lg:gap-5  md:gap-2">
             <Arrow className="object-contain shrink-0 mt-20 max-w-full aspect-[1.96] w-[116px] max-md:mt-10 max-md:w-[80px]" />
-            <h1 className="grow shrink mt-24 text-4xl lg:text-6xl text-white w-[293px] max-md:mt-10 max-md:text-3xl max-md:w-full ">
+            <h1 className="grow shrink mt-20 text-4xl lg:text-6xl text-white w-[293px] max-md:mt-10 max-md:text-3xl max-md:w-full ">
               FAQ
             </h1>
           </div>
