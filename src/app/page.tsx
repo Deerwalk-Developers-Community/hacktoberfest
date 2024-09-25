@@ -9,7 +9,6 @@ import { IntroductionSection } from "@/modules/intro";
 export default function Home() {
   return (
     <div className=" bg-black">
-      
       <HeroSection />
       <IntroductionSection />
       <BeginnerResource />
