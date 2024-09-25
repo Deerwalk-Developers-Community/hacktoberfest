@@ -6,7 +6,7 @@ import Stars from "../../components/Stars";
 
 const HacktoberfestPage: React.FC = () => {
   return (
-    <div className="relative flex flex-col justify-center font-bold bg-neutral-950 min-h-screen overflow-hidden">
+    <div className="relative flex flex-col justify-center font-bold bg-neutral-950 min-h-screen overflow-hidden pt-0 pb-0">
       <Stars className="absolute inset-0 w-fit h-full  min-h-[100vh] object-cover z-0" />{" "}
       <div className="relative flex flex-col w-full min-h-[1016px] max-md:min-h-screen max-md:px-5 max-md:max-w-full z-10">
         {" "}

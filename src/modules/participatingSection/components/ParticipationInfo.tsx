@@ -3,7 +3,7 @@ import Window from "../assets/Window";
 
 const ParticipationInfo: React.FC = () => {
   return (
-    <section className="relative grid place-items-center min-h-[837px] px-5 py-16 text-white">
+    <section className="relative grid place-items-center min-h-[837px] px-5 py-16 text-white w-screen">
       <div className="absolute inset-0 w-full h-full">
         <Window className="w-full h-full lg:block hidden" />
       </div>
