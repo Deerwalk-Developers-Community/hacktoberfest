@@ -4,6 +4,7 @@ const Stars = ({ className }: { className?: string }) => {
   return (
     <svg
       width="1920"
+      preserveAspectRatio="none"
       height="1016"
       viewBox="0 0 1920 1016"
       fill="none"
