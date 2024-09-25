@@ -32,7 +32,7 @@ const IntroductionSection = () => {
       {/* Box positioned at the bottom-right */}
       <div className="absolute bottom-0 w-[600px] h-[350px] right-10 text-white">
         <Box className="relative bottom-0 right-40" />
-        <p className="relative right-0  bottom-60 font-thin text-4xl">
+        <p className="relative right-[-30px]  bottom-60 font-thin text-4xl">
           Join other members of the open- source community on the Hacktoberfest
           Discord. <br /> <br />
           <span className="text-2xl">JOIN THE DISCORD</span>
