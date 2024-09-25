@@ -9,8 +9,8 @@ const IntroductionSection: React.FC = () => {
           we&apos;re calling on your support!
           <br />
           <br />
-          Whether it &apos; s your first time participating or you have <br />
-          previously participated, it &apos; s almost time to hack out <br />
+          Whether it&apos;s your first time participating or you have <br />
+          previously participated, it&apos;s almost time to hack out <br />
           four pristine pull/merge requests as we continue our <br />
           month of support for open source.
         </p>

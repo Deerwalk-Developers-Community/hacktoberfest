@@ -4,11 +4,12 @@ const Stars = ({ className }: { className?: string }) => {
   return (
     <svg
       width="1920"
+      preserveAspectRatio="none"
       height="1016"
       viewBox="0 0 1920 1016"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className={`${className} w-full h-full object-cover absolute inset-0`}
+      className={`${className}  min-h-[100vh] bg-cover lg:w-full h-full object-cover absolute inset-0`}
     >
       <g opacity="0.1">
         <path
