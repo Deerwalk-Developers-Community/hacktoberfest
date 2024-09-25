@@ -7,12 +7,12 @@ import Threearrows from "./assets/threearrow";
 
 const HacktoberfestPage: React.FC = () => {
   return (
-    <div className="relative flex flex-col justify-center font-bold bg-neutral-950 min-h-screen overflow-hidden">
+    <div className="relative flex flex-col justify-center font-bold bg-neutral-950 overflow-hidden">
       <Stars className="absolute inset-0 w-fit h-full  min-h-[100vh] object-cover z-0" />{" "}
       <div className="relative flex flex-col w-full min-h-[1016px] max-md:min-h-screen max-md:px-5 max-md:max-w-full z-10">
         {" "}
         <Header level="2" logo={false} />
-        <main className="flex lg:flex-col flex-col relative lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-16 ml-4 w-full max-w-[1654px] max-md:mt-10 max-md:max-w-full p-10">
+        <main className="flex lg:flex-col flex-col relative lg:gap-10 items-center lg:items-start justify-start lg:justify-center self-center mt-5 lg:mt-16 ml-4 w-full max-w-[1654px]  max-md:max-w-full p-10">
           <div className="w-full flex flex-row pl-0 gap-96 lg:gap-96 items-center justify-between">
             <div className="flex flex-row items-center justify-center">
               <Arrow className="w-16 lg:w-24 " />
@@ -24,7 +24,6 @@ const HacktoberfestPage: React.FC = () => {
             <div>
               <Threearrows className="hidden xl:block " />
             </div>
-
           </div>
           <IntroductionSection />
         </main>
