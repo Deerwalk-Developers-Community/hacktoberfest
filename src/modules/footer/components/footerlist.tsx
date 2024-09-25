@@ -51,14 +51,7 @@ const FooterList = () => {
                     X (Twitter)
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="https://www.facebook.com/share_channel/?link=https%3A%2F%2Fhacktoberfest.com&app_id=966242223397117&source_surface=external_reshare&display&hashtag"
-                    className="underline"
-                  >
-                    Facebook
-                  </a>
-                </li>
+
                 <li>
                   <a
                     href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%2F%3Furl%3Dhttps%253A%252F%252Fhacktoberfest.com"
@@ -75,14 +68,14 @@ const FooterList = () => {
                     Hacker News
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttps%253A%252F%252Fhacktoberfest.com%26title%3DHacktoberfest%2B2024"
                     className="underline"
                   >
                     Reddit
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
 
@@ -92,11 +85,11 @@ const FooterList = () => {
                 FOLLOW
               </h4>
               <ul className="space-y-2 text-2xl">
-                <li>
+                {/* <li>
                   <a href="#" className="underline">
                     Discord
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://www.linkedin.com/company/d-dev-community/posts/?feedView=all"
