@@ -3,12 +3,12 @@ import Window from "../assets/Window";
 
 const ParticipationInfo: React.FC = () => {
   return (
-    <section className="relative grid lg:place-items-center mx-auto min-h-[837px] px-5 py-16 text-white w-screen">
+    <section className="relative grid lg:place-items-center mx-auto min-h-[837px] px-5 py-16 text-white lg:w-screen">
       <div className="absolute inset-0 w-full h-full">
         <Window className="w-full h-full lg:block hidden" />
       </div>
 
-      <div className="relative z-10 max-w-3xl w-full p-4 md:p-8 text-left text-white lg:text-black space-y-6 leading-relaxed">
+      <div className="relative z-10 max-w-3xl w-full p-2 md:p-8 text-left text-white lg:text-black lg:space-y-6 leading-relaxed">
         <h2 className="text-2xl md:text-3xl font-bold">
           Here&apos;s what you need to know to participate and complete
           Hacktoberfest:
