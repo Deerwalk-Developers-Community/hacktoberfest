@@ -29,7 +29,7 @@ const Hero = () => {
       </div>
 
       <a href="https://events.mlh.io/events/11699-deertober" target="_blank">
-        <button className="mt-4 w-44 md:w-44 bg-white text-lg md:text-xl text-black font-bold py-3 px-6 border-r-3 flex justify-center md:justify-start items-center gap-3 hover:bg-gray-200">
+        <button className="mt-4 w-52 bg-white text-lg md:text-xl text-black font-bold py-3 px-6 border-r-3 flex justify-center md:justify-start items-center gap-3 hover:bg-gray-200">
           REGISTER
           <span className="text-lg md:text-xl">→</span>
         </button>

@@ -3,7 +3,7 @@ import Arrow from "@/components/Arrow";
 
 const BeginnerResource: React.FC = () => {
   return (
-    <div className="flex flex-col items-center justify-center w-full px-4 lg:px-20 sm:gap-8">
+    <div className="flex flex-col items-center justify-center w-screen px-4 lg:px-20 sm:gap-8">
       
       <div className="flex flex-col lg:flex-row w-full lg:justify-between items-center justify-center gap-16  md:pr-[73px] sm:pr-[73px]">
         
@@ -15,7 +15,7 @@ const BeginnerResource: React.FC = () => {
         </div>
 
        
-        <div className="flex flex-col gap-">
+        <div className="flex flex-col gap-1">
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Intro to open source 👾
           </h2>
@@ -44,9 +44,9 @@ const BeginnerResource: React.FC = () => {
       </div>
 
     
-      <div className="flex flex-col items-center lg:flex-row justify-between gap-10">
+      <div className="flex flex-col items-start lg:flex-row justify-between gap-10">
         
-        <div className="flex flex-col gap-4 lg:border-r-2 border-dashed border-[#FFF2E4] h-fit">
+        <div className="flex flex-col gap-4 lg:border-r-2 border-dashed border-[#FFF2E4] w-fit">
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Start Contributing
           </h2>
@@ -64,7 +64,7 @@ const BeginnerResource: React.FC = () => {
         </div>
 
        
-        <div className="flex flex-col gap-4 lg:w-[900px] md:w-[495px] sm:w-[495px] h-fit">
+        <div className="flex flex-col gap-4 lg:w-fit md:w-[495px] sm:w-[495px] h-fit">
           <h2 className="text-[#FFBDDE] text-xl lg:text-4xl font-semibold">
             Sharpen Your Skills
           </h2>

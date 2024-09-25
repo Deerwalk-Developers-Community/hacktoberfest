@@ -2,9 +2,9 @@ import React from "react";
 
 const FooterList = () => {
   return (
-    <div className="flex flex-col justify-end w-full">
+    <div className="flex flex-col justify-end w-screen">
       {/* Footer */}
-      <footer className="bg-[#183717] w-full pt-10 ">
+      <footer className="bg-[#183717] w-screen pt-10 ">
         {" "}
         {/* Updated background color */}
         <div className="container mx-auto px-6 flex flex-col lg:flex-row lg:justify-center justify-between lg:gap-48 items-start text-white space-y-0 lg:space-y-0">
