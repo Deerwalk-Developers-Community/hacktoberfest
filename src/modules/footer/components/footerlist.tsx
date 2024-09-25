@@ -98,17 +98,26 @@ const FooterList = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/company/d-dev-community/posts/?feedView=all" className="underline">
+                  <a
+                    href="https://www.linkedin.com/company/d-dev-community/posts/?feedView=all"
+                    className="underline"
+                  >
                     LinkedIn
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/dwit_ddc/" className="underline">
+                  <a
+                    href="https://www.instagram.com/dwit_ddc/"
+                    className="underline"
+                  >
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:developers.community@deerwalk.edu.np" className="underline">
+                  <a
+                    href="mailto:developers.community@deerwalk.edu.np"
+                    className="underline"
+                  >
                     Email
                   </a>
                 </li>
@@ -116,7 +125,7 @@ const FooterList = () => {
             </div>
 
             {/* Legal Links */}
-            <div className="lg:w-1/4 mb-8">
+            {/* <div className="lg:w-1/4 mb-8">
               <h4 className="text-2xl lg:text-4xl font-semibold mb-4 border-b-4 border-dashed border-white pb-2">
                 LEGAL
               </h4>
@@ -137,7 +146,7 @@ const FooterList = () => {
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </footer>
